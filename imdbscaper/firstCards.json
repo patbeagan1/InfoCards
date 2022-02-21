@@ -1,0 +1,184 @@
+[
+  {
+    "count": 1,
+    "color": "black",
+    "title": "Burning Hands",
+    "icon": "ace",
+    "icon_back": "ace",
+    "contents": [
+      "subtitle | 1st level evocation",
+      "rule",
+      "property | Casting time | 1 action",
+      "section | Range | Self (15ft cone)",
+      "property | Components | V,S",
+      "rule",
+      "fill | 2",
+      "text | Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes <b>3d6 fire damage</b> on a failed save, or half as much damage on a successful one.",
+      "text | The fire ignites any flammable objects in the area that aren't being worn or carried.",
+      "fill | 3",
+      "section | At higher levels",
+      "text | +1d6 damage for each slot above 1st"
+    ],
+    "tags": [
+      "spell",
+      "mage"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "black",
+    "title": "Cunning Action",
+    "icon": "ace",
+    "icon_back": "ace",
+    "contents": [
+      "subtitle | Rogue feature",
+      "rule",
+      "fill | 2",
+      "text | You can take a <b>bonus action on each of your turns</b> in combat. This action can be used only to take the <b>Dash, Disengage, or Hide</b> action.",
+      "fill | 2",
+      "section | Fast hands (Thief 3rd)",
+      "text | You can also use the bonus action to make a Dexterity (<b>Sleight of Hand</b>) check, use your thieves' tools to <b>disarm a trap</b> or <b>open a lock</b>, or take the <b>Use an Object</b> action."
+    ],
+    "tags": [
+      "feature",
+      "rogue"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "black",
+    "title": "Dagger",
+    "icon": "ace",
+    "contents": [
+      "subtitle | Simple melee weapon (2gp)",
+      "rule",
+      "property | Damage | 1d4 piercing",
+      "property | Modifier | Strength or Dexterity",
+      "property | Properties | Light, Finesse, Thrown (20/60)",
+      "rule",
+      "fill | 2",
+      "description | Finesse | Use your choice of Strength or Dexterity modifier for attack and damage.",
+      "description | Light | When you attack while dual wielding light weapons, you may use a bonus action to attack with your off hand.",
+      "description | Thrown | You can throw the weapon to make a ranged attack with the given range.",
+      "fill | 3"
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ],
+    "icon_back": "ace"
+  },
+  {
+    "count": 1,
+    "color": "black",
+    "title": "Full Plate",
+    "icon": "ace",
+    "contents": [
+      "subtitle | Heavy armor (1500gp)",
+      "rule",
+      "property | AC | 18",
+      "property | Strength required | 15",
+      "property | Stealth | Disadvantage",
+      "rule",
+      "fill | 2",
+      "description | Heavy | Unless you have the required strength, your speed is reduced by 10 feet.",
+      "description | Stealth | You have disadvantage on Dexterity (Stealth) checks.",
+      "fill | 3"
+    ],
+    "tags": [
+      "item",
+      "armor"
+    ],
+    "icon_back": "ace"
+  },
+  {
+    "count": 1,
+    "color": "black",
+    "title": "Goblin",
+    "icon": "ace",
+    "contents": [
+      "subtitle | Small humanoid (goblinoid)",
+      "rule",
+      "property | Armor class | 15 (leather armor, shield)",
+      "property | Hit points | 7 (2d6)",
+      "rule",
+      "dndstats | 8 | 14 | 10 | 10 | 8 | 8",
+      "rule",
+      "property | Skills | Stealth +6",
+      "property | Challenge | 1/4 (50 XP)",
+      "rule",
+      "description | Nimble escape | Disengage or Hide as bonus action",
+      "fill | 2",
+      "section | Actions",
+      "description | Scimitar | Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage"
+    ],
+    "tags": [
+      "creature",
+      "humanoid"
+    ],
+    "icon_back": "ace"
+  },
+  {
+    "count": 2,
+    "color": "black",
+    "title": "Potion of Healing",
+    "icon": "ace",
+    "contents": [
+      "subtitle | Potion (50gp)",
+      "rule",
+      "property | Use time | 1 action",
+      "property | Hit points restored | 2d4+2",
+      "rule",
+      "fill | 2",
+      "text | When you drink this potion, you regain 2d4+2 hitpoints.",
+      "text | Drinking or administering a potion takes 1 action.",
+      "fill | 3"
+    ],
+    "tags": [
+      "item",
+      "consumable"
+    ],
+    "icon_back": "ace"
+  },
+  {
+    "count": 1,
+    "color": "black",
+    "title": "Shortsword of Very Long Names",
+    "title_size": "10",
+    "icon": "ace",
+    "contents": [
+      "subtitle | Simple melee weapon (10gp)",
+      "rule",
+      "property | Damage | 1d6 piercing",
+      "property | Modifier | Strength or Dexterity",
+      "property | Properties | Light, Finesse",
+      "rule",
+      "fill | 2",
+      "description | Finesse | Use your choice of Strength or Dexterity modifier for attack and damage.",
+      "description | Light | When you attack while dual wielding light weapons, you may use a bonus action to attack with your off hand.",
+      "fill | 3"
+    ],
+    "tags": [
+      "item",
+      "weapon",
+      "magic"
+    ],
+    "icon_back": "ace"
+  },
+  {
+    "count": "1",
+    "color": "black",
+    "title": "Death Note",
+    "icon": "clapperboard",
+    "contents": [
+      "text | An intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook capable of killing anyone whose name is written into it.",
+      "rule",
+      "property | Rating | 9.0/10",
+      "fill | 10",
+      "picture | data:image/gif;base64,R0lGODlhhACEAJEAAAAAAP///wAAAAAAACH5BAEAAAIALAAAAACEAIQAAAL/jI+py+0Po5y02ouz3rz7D4biSJbmiabqyrbuC8chQNf2jeeIvec+5PsdgsQgpYi89WjLJDDJHEKdkynVwJNCn1ut1Vj9EptNJPcaEI/DUUsWq/OSF0LFO13D3M/6vPcO6GcXN9iGZ3gkGLHHBlCmGIj4pzgHJynB6JC5CEl46ChH51n52XfZEAlmCarZ2VWoWjqJQ8o3qxTaamjFYJb7WSeL6Rq7Scorurb6SPtruxps/IsMG01sfdp77ZmaehZ8vN283MiMSw5N/D06LX4uzLlbFD4Or62c4H2rPyyP363ugS9Y9IpREuiOXwVqwNiha1hPGsF9Ad1MMbcJYMSD/7pYQXwnEdVFiqc0guQo0p/BbAhffcyYsGI8j4lKOsyHEqPMmjRb9uz38+OzlCuDDj1aLtm7e0ZJegzJlKepoOCUrtvIsiNPNSdVFvzajmu9q2LBPlSIVuxYn2q9hn0qM23bnErnmoUnF65KuzKEvjVZqy8JbHq7GhaMgrC5xc4Qi1B8i/FDwYCdBq6GsurEzX6BSn65s27mm5fxkrYa2XJjzDbXci4I9W9Mtx1husbZunDs16lZx9rKbaTWC7aXOt2Nu+hAolOZFl8OHCuaqMRH32YY3TB01BZpJ6981rpx3+AzKPwMeXJvooSRU1efbm9c8SGXa14YOr7u+bnrz/9bL5Vqw+lnH31qIDUgaFmZJkZpfCU41HacceVgWwgyJyCGBP4Hn4LTcTeTf9cF1x+JTdVGF1AijteZPRm6B2B1t32GnoHSTQWjb2Q5l5+Hpe24QXnvtXjXeTFuuCBsKTLIYl4VjohPhKeFB2Vhd9GYoZQzypZbkTZSxeFMNVa5IlntzXZicmM2OaWL5JloEnLl3Xffj8e5o1OSXO5X4oIrFihdnSAKiuKNIGKp35ABJipjUYoeSeRqYkJqZo/PffmoZ5SyZWKmkTLKm6YTwinehRK2mKObTAop6ZO/rZdqcWvK6hOPZPZoKp6Qlinard5xwOqo3p1KK5JpLvqpmm//5Qlml1kGqWuCedFZ6rMaBKsslXyy6ayxzcFK6pZvdpttud+CimqYlZLrKrDRphslp1V6mqqS8t3Loq3cNstvYktiJ+8X55bwp7oBAywqwf8KF+KBjfrrJ8Prfpiwu3pqG+fCc7lk8bF7Mjvxxksiq6V2bYrMMbQXr4pmyCg7Nu62sWoscF+AvlpxrxS3cDOhGrIn8Qs9t+kpsz4bzfC0NN+8Jo4WLrupsUr/2siDTCL6XZhzjqwzhVCjq2968Hoc6qQd+sxroduSnNTZJ9MMJNi1Piwp2nAHjHXRc7strqp2onv0nkZ6O+hNXneILNNdVyu31J2qLLOlBmP8peLXtLZc9+Qs94lGvYLzd9iLhmN66N4+fvw5vvSOvnLGwz5OeOOqUts65pS//g/r/BZr9unaguBk6b+37fvVHwRf9uA/W+433cMnj2vhuVN9Oe79Sk928xB+Xby9VnLPds7Pd4/6+DOv3G7q1wMO+sDhGx97uWIr77JLcjK+PP7nb/y3ua2CD0AVPQ1xwtMe/OTHtZgx5H7swt6QPAezCEpwghSsoAUviMEManCDHOygBz8IwhcUAAA7"
+    ],
+    "tags": [],
+    "icon_back": "ace",
+    "background_image": "https://m.media-amazon.com/images/M/MV5BODkzMjhjYTQtYmQyOS00NmZlLTg3Y2UtYjkzN2JkNmRjY2FhXkEyXkFqcGdeQXVyNTM4MDQ5MDc@._V1_.jpg"
+  }
+]
